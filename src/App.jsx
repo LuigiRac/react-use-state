@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import HtmlContent from "./Components/HtmlContent.jsx";
 import './App.css'
 
 function App() {
@@ -6,6 +7,9 @@ function App() {
 
   return (
     <>
+      <div>
+        <HtmlContent />
+      </div>
 
     </>
   )
