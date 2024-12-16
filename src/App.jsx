@@ -4,6 +4,7 @@ import CssContent from "./Components/CssContent.jsx";
 import JsContent from "./Components/JsContent.jsx";
 import NodeContent from "./Components/NodeContent.jsx";
 import ExpressContent from "./Components/ExpressContent.jsx";
+import ReactContent from "./Components/ReactContent.jsx";
 import './App.css'
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <JsContent />
         <NodeContent />
         <ExpressContent />
+        <ReactContent />
       </div>
 
     </>
