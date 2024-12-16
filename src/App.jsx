@@ -3,6 +3,7 @@ import HtmlContent from "./Components/HtmlContent.jsx";
 import CssContent from "./Components/CssContent.jsx";
 import JsContent from "./Components/JsContent.jsx";
 import NodeContent from "./Components/NodeContent.jsx";
+import ExpressContent from "./Components/ExpressContent.jsx";
 import './App.css'
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <CssContent />
         <JsContent />
         <NodeContent />
+        <ExpressContent />
       </div>
 
     </>
