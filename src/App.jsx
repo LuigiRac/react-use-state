@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import HtmlContent from "./Components/HtmlContent.jsx";
+import CssContent from "./Components/CssContent.jsx";
 import './App.css'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
       <div>
         <HtmlContent />
+        <CssContent />
       </div>
 
     </>
