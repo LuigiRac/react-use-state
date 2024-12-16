@@ -14,7 +14,7 @@ function MainContent() {
 
     return (
         <main className="container">
-            <div>
+            <div className="d-flex Justify-content-start gap-3 mb-3">
                 <HtmlContent />
                 <CssContent />
                 <JsContent />

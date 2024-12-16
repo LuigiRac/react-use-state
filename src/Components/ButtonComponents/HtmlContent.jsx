@@ -10,10 +10,9 @@ function HtmlContent() {
     }
     return (
         <>
-            <div>
-                <div className="counter">{count}</div>
-                <button className="btn btn-primary" onClick={incrementa}>HTML</button>
-            </div>
+
+            {/* <div className="counter">{count}</div> */}
+            <button className="btn btn-primary" onClick={incrementa}>HTML</button>
 
 
         </>
