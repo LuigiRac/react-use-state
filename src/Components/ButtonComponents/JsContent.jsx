@@ -1,8 +1,9 @@
+
 function JsContent() {
 
 
     return (
-        <button class="btn btn-primary" type="submit">Javascript</button>
+        <button className="btn btn-primary" type="submit">Javascript</button>
 
     )
 };

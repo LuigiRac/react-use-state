@@ -2,7 +2,7 @@ function CssContent() {
 
 
     return (
-        <button class="btn btn-primary" type="submit">CSS</button>
+        <button className="btn btn-primary" type="submit">CSS</button>
 
     )
 };
