@@ -13,7 +13,9 @@ function ButtonDisplay() {
                         )
                     }
                 </ul>
+                <div className="box">
 
+                </div>
             </section>
         </>
     )
