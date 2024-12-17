@@ -1,5 +1,12 @@
-import { useState } from 'react'
+
+import languages from "../../data/languages.js";
+
+
 function DisplayContent() {
+    // const [languages, setLanguages] = useState(languages[0]);
+    // function selLanguages() {
+    // }
+    console.log(languages);
 
     return (
         <>

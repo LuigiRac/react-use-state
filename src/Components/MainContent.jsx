@@ -6,9 +6,8 @@ import ExpressContent from "./ButtonComponents/ExpressContent.jsx";
 import ReactContent from "./ButtonComponents/ReactContent.jsx";
 import DisplayContent from "./DisplayComponent/DisplayContent.jsx";
 
-import { useState } from 'react'
 
-import languages from "../data/languages.js";
+
 
 function MainContent() {
 
